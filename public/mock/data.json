@@ -1,0 +1,920 @@
+[
+    {
+        "name": "新品",
+        "goods": [
+            {
+                "id": "10010",
+                "name": "Redmi K20 Pro",
+                "img": "/images/category/xinpin01.png"
+            },
+            {   
+                "id": "10011",
+                "name": "Redmi K20",
+                "img": "/images/category/xinpin02.png"
+            },
+            {   
+                "id": "10012",
+                "name": "Redmi 7A",
+                "img": "/images/category/xinpin03.png"
+            },
+            {
+                "id": "10013",
+                "name": "小米9",
+                "img": "/images/category/xinpin04.png"
+            },
+            {
+                "id": "10014",
+                "name": "小米9 SE",
+                "img": "/images/category/xinpin05.png"
+            },
+            {
+                "id": "10015",
+                "name": "Redmi Note 7 Pro",
+                "img": "/images/category/xinpin06.png"
+            },
+            {
+                "id": "10016",
+                "name": "Redmi 7",
+                "img": "/images/category/xinpin07.png"
+            },
+            {
+                "id": "10017",
+                "name": "黑鲨游戏手机2",
+                "img": "/images/category/xinpin08.jpg"
+            },
+            {
+                "id": "10018",
+                "name": "Redmi Note 7",
+                "img": "/images/category/xinpin09.png"
+            },
+            {
+                "id": "10019",
+                "name": "全面屏电视E55A",
+                "img": "/images/category/xinpin10.jpg"
+            },
+            {
+                "id": "10020",
+                "name": "壁画电视65英寸",
+                "img": "/images/category/xinpin11.jpg"
+            },
+            {
+                "id": "10021",
+                "name": "电视4X65英寸",
+                "img": "/images/category/xinpin12.jpg"
+            },
+            {
+                "id": "10022",
+                "name": "立式空调C1",
+                "img": "/images/category/xinpin13.png"
+            },
+            {
+                "id": "10023",
+                "name": "空调C1",
+                "img": "/images/category/xinpin14.jpg"
+            },
+            {
+                "id": "10024",
+                "name": "洗烘一体机1A",
+                "img": "/images/category/xinpin15.jpg"
+            }
+        ]
+    },
+    {
+        "name": "众筹",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "手机",
+        "goods": [
+            {
+                "name": "小米9",
+                "img": "/images/category/shouji01.png"
+            },
+            {
+                "name": "小米9 SE",
+                "img": "/images/category/shouji02.png"
+            },
+            {
+                "name": "小米MIX 3",
+                "img": "/images/category/shouji03.png"
+            },
+            {
+                "name": "小米8 屏幕指纹",
+                "img": "/images/category/shouji04.png"
+            },
+            {
+                "name": "小米8",
+                "img": "/images/category/shouji05.png"
+            },
+            {
+                "name": "小米8 青春版",
+                "img": "/images/category/shouji06.png"
+            }
+        ]
+    },
+    {
+        "name": "电视",
+        "goods": [
+            {
+                "name": "32-40英寸",
+                "img": "/images/category/dianshi01.png"
+            },
+            {
+                "name": "43英寸",
+                "img": "/images/category/dianshi02.png"
+            },
+            {
+                "name": "49-50英寸",
+                "img": "/images/category/dianshi03.jpg"
+            },
+            {
+                "name": "55-58英寸",
+                "img": "/images/category/dianshi04.jpg"
+            },
+            {
+                "name": "65-75英寸",
+                "img": "/images/category/dianshi05.jpg"
+            },
+            {
+                "name": "激光投影电视",
+                "img": "/images/category/dianshi06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "电脑",
+        "goods": [
+            {
+                "name": "小米Air 12.5",
+                "img": "/images/category/diannao01.jpg"
+            },
+            {
+                "name": "小米Air 13.3",
+                "img": "/images/category/diannao02.jpg"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao03.jpg"
+            },
+            {
+                "name": "RedmiBook 14",
+                "img": "/images/category/diannao04.png"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao05.jpg"
+            },
+            {
+                "name": "小米pro 15.6",
+                "img": "/images/category/diannao06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "智能",
+        "goods": [
+            {
+                "name": "小爱老师",
+                "img": "/images/category/zhineng01.png"
+            },
+            {
+                "name": "小爱音箱",
+                "img": "/images/category/zhineng02.jpg"
+            },
+            {
+                "name": "手环",
+                "img": "/images/category/zhineng03.png"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhineng04.jpg"
+            },
+            {
+                "name": "小爱智能闹钟",
+                "img": "/images/category/zhineng05.jpg"
+            },
+            {
+                "name": "无人机",
+                "img": "/images/category/zhineng06.png"
+            }
+        ]
+    },
+    {
+        "name": "家用电器",
+        "goods": [
+            {
+                "name": "小米Air 12.5",
+                "img": "/images/category/diannao01.jpg"
+            },
+            {
+                "name": "小米Air 13.3",
+                "img": "/images/category/diannao02.jpg"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao03.jpg"
+            },
+            {
+                "name": "RedmiBook 14",
+                "img": "/images/category/diannao04.png"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao05.jpg"
+            },
+            {
+                "name": "小米pro 15.6",
+                "img": "/images/category/diannao06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "厨房电器",
+        "goods": [
+            {
+                "name": "小米Air 12.5",
+                "img": "/images/category/diannao01.jpg"
+            },
+            {
+                "name": "小米Air 13.3",
+                "img": "/images/category/diannao02.jpg"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao03.jpg"
+            },
+            {
+                "name": "RedmiBook 14",
+                "img": "/images/category/diannao04.png"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao05.jpg"
+            },
+            {
+                "name": "小米pro 15.6",
+                "img": "/images/category/diannao06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "穿戴酷玩",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "家居家装",
+        "goods": [
+            {
+                "name": "小爱老师",
+                "img": "/images/category/zhineng01.png"
+            },
+            {
+                "name": "小爱音箱",
+                "img": "/images/category/zhineng02.jpg"
+            },
+            {
+                "name": "手环",
+                "img": "/images/category/zhineng03.png"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhineng04.jpg"
+            },
+            {
+                "name": "小爱智能闹钟",
+                "img": "/images/category/zhineng05.jpg"
+            },
+            {
+                "name": "无人机",
+                "img": "/images/category/zhineng06.png"
+            }
+        ]
+    },
+    {
+        "name": "电源插座",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "出行车载",
+        "goods": [
+            {
+                "name": "小米Air 12.5",
+                "img": "/images/category/diannao01.jpg"
+            },
+            {
+                "name": "小米Air 13.3",
+                "img": "/images/category/diannao02.jpg"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao03.jpg"
+            },
+            {
+                "name": "RedmiBook 14",
+                "img": "/images/category/diannao04.png"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao05.jpg"
+            },
+            {
+                "name": "小米pro 15.6",
+                "img": "/images/category/diannao06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "耳机音箱",
+        "goods": [
+            {
+                "name": "32-40英寸",
+                "img": "/images/category/dianshi01.png"
+            },
+            {
+                "name": "43英寸",
+                "img": "/images/category/dianshi02.png"
+            },
+            {
+                "name": "49-50英寸",
+                "img": "/images/category/dianshi03.jpg"
+            },
+            {
+                "name": "55-58英寸",
+                "img": "/images/category/dianshi04.jpg"
+            },
+            {
+                "name": "65-75英寸",
+                "img": "/images/category/dianshi05.jpg"
+            },
+            {
+                "name": "激光投影电视",
+                "img": "/images/category/dianshi06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "路由器",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "个护健康",
+        "goods": [
+            {
+                "name": "小爱老师",
+                "img": "/images/category/zhineng01.png"
+            },
+            {
+                "name": "小爱音箱",
+                "img": "/images/category/zhineng02.jpg"
+            },
+            {
+                "name": "手环",
+                "img": "/images/category/zhineng03.png"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhineng04.jpg"
+            },
+            {
+                "name": "小爱智能闹钟",
+                "img": "/images/category/zhineng05.jpg"
+            },
+            {
+                "name": "无人机",
+                "img": "/images/category/zhineng06.png"
+            }
+        ]
+    },
+    {
+        "name": "日用百货",
+        "goods": [
+            {
+                "name": "小米Air 12.5",
+                "img": "/images/category/diannao01.jpg"
+            },
+            {
+                "name": "小米Air 13.3",
+                "img": "/images/category/diannao02.jpg"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao03.jpg"
+            },
+            {
+                "name": "RedmiBook 14",
+                "img": "/images/category/diannao04.png"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao05.jpg"
+            },
+            {
+                "name": "小米pro 15.6",
+                "img": "/images/category/diannao06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "床品家具",
+        "goods": [
+            {
+                "name": "32-40英寸",
+                "img": "/images/category/dianshi01.png"
+            },
+            {
+                "name": "43英寸",
+                "img": "/images/category/dianshi02.png"
+            },
+            {
+                "name": "49-50英寸",
+                "img": "/images/category/dianshi03.jpg"
+            },
+            {
+                "name": "55-58英寸",
+                "img": "/images/category/dianshi04.jpg"
+            },
+            {
+                "name": "65-75英寸",
+                "img": "/images/category/dianshi05.jpg"
+            },
+            {
+                "name": "激光投影电视",
+                "img": "/images/category/dianshi06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "配件线材",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "办公用品",
+        "goods": [
+            {
+                "name": "小爱老师",
+                "img": "/images/category/zhineng01.png"
+            },
+            {
+                "name": "小爱音箱",
+                "img": "/images/category/zhineng02.jpg"
+            },
+            {
+                "name": "手环",
+                "img": "/images/category/zhineng03.png"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhineng04.jpg"
+            },
+            {
+                "name": "小爱智能闹钟",
+                "img": "/images/category/zhineng05.jpg"
+            },
+            {
+                "name": "无人机",
+                "img": "/images/category/zhineng06.png"
+            }
+        ]
+    },
+    {
+        "name": "鞋服箱包",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "儿童用品",
+        "goods": [
+            {
+                "name": "小米9",
+                "img": "/images/category/shouji01.png"
+            },
+            {
+                "name": "小米9 SE",
+                "img": "/images/category/shouji02.png"
+            },
+            {
+                "name": "小米MIX 3",
+                "img": "/images/category/shouji03.png"
+            },
+            {
+                "name": "小米8 屏幕指纹",
+                "img": "/images/category/shouji04.png"
+            },
+            {
+                "name": "小米8",
+                "img": "/images/category/shouji05.png"
+            },
+            {
+                "name": "小米8 青春版",
+                "img": "/images/category/shouji06.png"
+            }
+        ]
+    },
+    {
+        "name": "家装",
+        "goods": [
+            {
+                "name": "32-40英寸",
+                "img": "/images/category/dianshi01.png"
+            },
+            {
+                "name": "43英寸",
+                "img": "/images/category/dianshi02.png"
+            },
+            {
+                "name": "49-50英寸",
+                "img": "/images/category/dianshi03.jpg"
+            },
+            {
+                "name": "55-58英寸",
+                "img": "/images/category/dianshi04.jpg"
+            },
+            {
+                "name": "65-75英寸",
+                "img": "/images/category/dianshi05.jpg"
+            },
+            {
+                "name": "激光投影电视",
+                "img": "/images/category/dianshi06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "礼品",
+        "goods": [
+            {
+                "name": "小爱老师",
+                "img": "/images/category/zhineng01.png"
+            },
+            {
+                "name": "小爱音箱",
+                "img": "/images/category/zhineng02.jpg"
+            },
+            {
+                "name": "手环",
+                "img": "/images/category/zhineng03.png"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhineng04.jpg"
+            },
+            {
+                "name": "小爱智能闹钟",
+                "img": "/images/category/zhineng05.jpg"
+            },
+            {
+                "name": "无人机",
+                "img": "/images/category/zhineng06.png"
+            }
+        ]
+    },
+    {
+        "name": "服务",
+        "goods": [
+            {
+                "name": "小米Air 12.5",
+                "img": "/images/category/diannao01.jpg"
+            },
+            {
+                "name": "小米Air 13.3",
+                "img": "/images/category/diannao02.jpg"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao03.jpg"
+            },
+            {
+                "name": "RedmiBook 14",
+                "img": "/images/category/diannao04.png"
+            },
+            {
+                "name": "笔记本15.6",
+                "img": "/images/category/diannao05.jpg"
+            },
+            {
+                "name": "小米pro 15.6",
+                "img": "/images/category/diannao06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "会员卡",
+        "goods": [
+            {
+                "name": "电磁炉",
+                "img": "/images/category/zhongchou01.png"
+            },
+            {
+                "name": "智能记录越野车",
+                "img": "/images/category/zhongchou02.jpg"
+            },
+            {
+                "name": "洁面机",
+                "img": "/images/category/zhongchou03.jpg"
+            },
+            {
+                "name": "驱蚊器",
+                "img": "/images/category/zhongchou04.jpg"
+            },
+            {
+                "name": "净水器 600G",
+                "img": "/images/category/zhongchou05.jpg"
+            },
+            {
+                "name": "无线吸尘器",
+                "img": "/images/category/zhongchou06.png"
+            },
+            {
+                "name": "投影仪 青春版",
+                "img": "/images/category/zhongchou07.jpg"
+            },
+            {
+                "name": "电暖器",
+                "img": "/images/category/zhongchou08.jpg"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhongchou09.jpg"
+            }
+        ]
+    },
+    {
+        "name": "米粉卡",
+        "goods": [
+            {
+                "name": "32-40英寸",
+                "img": "/images/category/dianshi01.png"
+            },
+            {
+                "name": "43英寸",
+                "img": "/images/category/dianshi02.png"
+            },
+            {
+                "name": "49-50英寸",
+                "img": "/images/category/dianshi03.jpg"
+            },
+            {
+                "name": "55-58英寸",
+                "img": "/images/category/dianshi04.jpg"
+            },
+            {
+                "name": "65-75英寸",
+                "img": "/images/category/dianshi05.jpg"
+            },
+            {
+                "name": "激光投影电视",
+                "img": "/images/category/dianshi06.jpg"
+            }
+        ]
+    },
+    {
+        "name": "零售店",
+        "goods": [
+            {
+                "name": "小爱老师",
+                "img": "/images/category/zhineng01.png"
+            },
+            {
+                "name": "小爱音箱",
+                "img": "/images/category/zhineng02.jpg"
+            },
+            {
+                "name": "手环",
+                "img": "/images/category/zhineng03.png"
+            },
+            {
+                "name": "照片打印机",
+                "img": "/images/category/zhineng04.jpg"
+            },
+            {
+                "name": "小爱智能闹钟",
+                "img": "/images/category/zhineng05.jpg"
+            },
+            {
+                "name": "无人机",
+                "img": "/images/category/zhineng06.png"
+            }
+        ]
+    }
+]
